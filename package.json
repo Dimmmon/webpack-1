@@ -1,5 +1,5 @@
 {
-  "name": "webpack",
+  "name": "pack",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Dimmmon/webpack-1/issues"
   },
-  "homepage": "https://github.com/Dimmmon/webpack-1#readme"
+  "homepage": "https://github.com/Dimmmon/webpack-1#readme",
+  "dependencies": {
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2"
+  }
 }
